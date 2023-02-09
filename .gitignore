@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# env files
+.env
+service_account.json
+
+# Large datasets
+offensive_full.csv
+sentiment_full.csv
